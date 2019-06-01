@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2018-03-01"
-  date_end = ""
+  date_end = "2018-11-31"
   description = """Intelligent customer service (AIbot) team leader, responsible for the construction of intelligent customer service system (AIbot). Now AIbot is serving hundreds of millions of users. """
 
 +++
