@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Wuhan, China"
   date_start = "2017-07-01"
-  date_end = "2019-06-30"
+  date_end = "2019-05-31"
   description = """AI group containing 20+ undergraduate students. """
 
 [[experience]]
