@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Dian Group, Huazhong University of Science and Technology"
   company_url = ""
   location = "Wuhan, China"
-  date_start = "2017-07-01"
-  date_end = "2018-02-28"
+  date_start = "2018-07-01"
+  date_end = ""
   description = """AI group containing 20+ undergraduate students. """
 
 [[experience]]
