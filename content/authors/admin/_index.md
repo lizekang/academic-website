@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MEng in Natural Language Processing
+  - course: Master in Natural Language Processing
     institution: Institute of Computing Technology, Chinese Academy of Sciences
     year: 2019~now
   - course: BSc in Electronic Information Engineering
@@ -67,6 +67,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zekang Li is a Graduate Student at Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. His research interests include machine learning, natural language Processing and dialogue system. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
