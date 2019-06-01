@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Wuhan, China"
   date_start = "2017-07-01"
-  date_end = "20/11/18"
+  date_end = "2018-02-28"
   description = """AI group containing 20+ undergraduate students. """
 
 [[experience]]
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2018-03-01"
-  date_end = "31/11/18"
+  date_end = "2018-11-19"
   description = """Intelligent customer service (AIbot) team leader, responsible for the construction of intelligent customer service system (AIbot). Now AIbot is serving hundreds of millions of users. """
 
 +++
