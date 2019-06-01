@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Intern"
+  company = "Pattern Recognition Center, WeChat AI, Tencent"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing, China"
+  date_start = "2018-11"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learning"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "AI Group Leader"
+  company = "Dian Group, Huazhong University of Science and Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Wuhan, China"
+  date_start = "2017-06"
+  date_end = "2019-06"
+  description = """AI group containing 20+ undergraduate students. """
+
+[[experience]]
+  title = "NLP Engineer Intern"
+  company = "Beibei Group"
+  company_url = ""
+  location = "Hangzhou, China"
+  date_start = "2018-03"
+  date_end = "2018-11"
+  description = """Intelligent customer service (AIbot) team leader, responsible for the construction of intelligent customer service system (AIbot). Now AIbot is serving hundreds of millions of users. """
 
 +++
