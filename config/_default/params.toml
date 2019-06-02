@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zekangli97@gmail.com"
+email = ""
 phone = "(+86) 15927573538"
 address = ""
 
