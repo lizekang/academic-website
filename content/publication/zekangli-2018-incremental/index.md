@@ -6,6 +6,6 @@ authors: ["**Zekang Li**, Cheng Niu, Fandong Meng, Yang Feng, Qian Li, Jie Zhou"
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)*"
+publication: "*ACL 2019 (Long Papers)*"
 ---
 
