@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Zekang Li is a graduate student in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng). He worked as the AI Group Leader of [Dian Group](http://dian.org.cn/) (2017~2019) (Dian Group ID: D610). Now he is in a research intern at Pattern Recognition Center, WeChat AI, Tencent, advised by [Fandong Meng](http://fandongmeng.github.io/), Jinchao Zhang and Cheng Niu.
+Zekang Li is a graduate student in [Key Laboratory of Intelligent Information Processing](http://iip.ict.ac.cn/), Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. [Yang Feng](http://iip.ict.ac.cn/members/yang-feng). He worked as the AI Group Leader of [Dian Group](http://dian.org.cn/) (2017~2019) (Dian Group ID: D610). Now he is in a research intern at Pattern Recognition Center, WeChat AI, Tencent, advised by [Fandong Meng](http://fandongmeng.github.io/), [Jinchao Zhang](#about) and [Cheng Niu](#about).
 
 His research interests lie within deep learning for Natural Language Processing, particularly in dialogue systems and knowledge representation. His is also involved in Cognitive Science and its application in Dialogue System.
 
