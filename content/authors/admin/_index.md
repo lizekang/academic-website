@@ -67,5 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Zekang Li is a Graduate Student at Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences. His research interests include machine learning, natural language Processing and dialogue system. 
+Zekang Li is a graduate student in Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences, advised by Prof. Yang Feng. He worked as the AI Group Leader of [Dian Group](http://dian.org.cn/) (2017~2019) (Dian Group ID: D610). Now he is in a research intern at Pattern Recognition Center, WeChat AI, Tencent, advised by Fandong Meng, Jinchao Zhang and Cheng Niu.
+His research interests lie within deep learning for Natural Language Processing, particularly in dialogue systems and knowledge representation. His is also involved in Cognitive Science and its application in Dialogue System.
+
 
