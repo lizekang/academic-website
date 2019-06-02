@@ -11,7 +11,7 @@ external_link: ""
 
 image:
   caption: CDBTune
-  focal_point: Smart
+  focal_point: Top
 
 url_code: ""
 url_pdf: ""
