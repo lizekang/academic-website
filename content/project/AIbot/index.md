@@ -12,7 +12,7 @@ external_link: ""
 
 image:
   caption: AIbot 
-  focal_point: Smart
+  focal_point: Center
 
 url_code: ""
 url_pdf: ""
