@@ -27,13 +27,16 @@ date_format = "Jan 2006"
   description = """
 
 Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learning
+
 **Knowledge Powered Dialogue System** :
 
 - Document Grounded Conversations. A long paper accepted by ACL 2019. A long paper submitted to EMNLP 2019 workshop.
 - Audio Visual Scene-aware Dialog. Work in progress.
 
 **Dialogue Coherence and Diversity** : A long paper submitted to AAAI 2020.
+
 **WeChat Reading Dataset**: Work in progress.
+
 **Relation Prediction in Knowledge Graphs**: A long paper submitted to AAAI 2020.
 
 """
@@ -42,7 +45,7 @@ Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learni
 [[experience]]
   title = "AI Group Leader"
   company = "Dian Group, Huazhong University of Science and Technology"
-  company_url = ""
+  company_url = "http://dian.org.cn"
   location = "Wuhan, China"
   date_start = "2018-07-01"
   date_end = "2019-06-30"
@@ -59,7 +62,7 @@ Founder of AI Group in Dian Group. AI Group contains 20+ undergraduate students 
 [[experience]]
   title = "NLP Engineer Intern"
   company = "Beibei Group"
-  company_url = ""
+  company_url = "beibei.com"
   location = "Hangzhou, China"
   date_start = "2018-03-01"
   date_end = "2018-11-19"
