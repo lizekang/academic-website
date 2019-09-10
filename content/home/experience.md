@@ -28,12 +28,16 @@ date_format = "Jan 2006"
 
 Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learning
 
-**Knowledge Powered Dialogue System** : It is important for dialogue system to use universal background knowledge and common senses.
+**Knowledge Powered Dialogue System** :
 
-- Document Grounded Conversations. A long paper accepted by ACL 2019.
+- Document Grounded Conversations. A long paper accepted by ACL 2019. A long paper submitted to EMNLP 2019 workshop.
 - Audio Visual Scene-aware Dialog. Work in progress.
 
-**Dialogue Coherence and Diversity** : Improve the diversity and relevance of dialogue generation with WAE methods and exemplar augmentation. A long paper submitted to AAAI 2020.
+**Dialogue Coherence and Diversity** : A long paper submitted to AAAI 2020.
+
+**WeChat Reading Dataset**: Work in progress.
+
+**Relation Prediction in Knowledge Graphs**: A long paper submitted to AAAI 2020.
 
 """
 
@@ -45,7 +49,15 @@ Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learni
   location = "Wuhan, China"
   date_start = "2018-07-01"
   date_end = "2019-06-30"
-  description = """AI group containing 20+ undergraduate students. """
+  description = """
+
+Founder of AI Group in Dian Group. AI Group contains 20+ undergraduate students who are interested in AI (natural language processing, computer vision, machine learning, deep learning, reinforcement learning). We cooperate with famous companies on commercial or research projects.
+
+- AIbot: An Intelligent Customer Service Robot (Beibei Group).
+- AI Mooc: Build an intelligent question answering system for Mooc. We apply for the National Natural Science Funds.
+- AI in 5G: Using Deep Reinforcement Learning to optimize Network Access Control in 5G. (Intel Inc)
+
+"""
 
 [[experience]]
   title = "NLP Engineer Intern"
@@ -54,6 +66,23 @@ Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learni
   location = "Hangzhou, China"
   date_start = "2018-03-01"
   date_end = "2018-11-19"
-  description = """Intelligent customer service (AIbot) team leader, responsible for the construction of intelligent customer service system (AIbot). Now AIbot is serving hundreds of millions of users. """
+  description = """
+
+Team Leader of Intelligent Customer Service Robot. Beibei Group is the biggest e-commerce company for mother and baby in China. Lead a team of 12 undergraduate students to develop a stable, learnable and reliable intelligent customer service robot to replace the original commercial system. The resp onse accuracy and customer's satisfaction of our system outperforms the original commercial one (Yib ot). Now AIbot serves hundreds of millions customers.
+
+"""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Wuhan National Laboratory for Optoelectronics, HUST"
+  company_url = ""
+  location = "Wuhan, China"
+  date_start = "2017-10-01"
+  date_end = "2018-06-30"
+  description = """
+
+Use deep reinforcement learning to tune cloud database automatically. Our system significantly outperforms the state-of-the-art tuning tools and DBA experts. And our paper is accepted by SIGMOD 2019.
+
+"""
 
 +++
