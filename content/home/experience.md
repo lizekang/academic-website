@@ -25,11 +25,15 @@ date_format = "Jan 2006"
   date_start = "2018-11-20"
   date_end = ""
   description = """
+
     Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learning
+
     1. Knowledge Powered Dialogue System : It is important for dialogue system to use universal background knowledge and common senses.
     - Document Grounded Conversations. A long paper accepted by ACL 2019.
     - Audio Visual Scene-aware Dialog. Work in progress.
+
     2. Dialogue Coherence and Diversity : Improve the diversity and relevance of dialogue generation with WAE methods and exemplar augmentation. A long paper submitted to AAAI 2020.
+
 """
 
 
