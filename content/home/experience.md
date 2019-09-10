@@ -29,6 +29,7 @@ date_format = "Jan 2006"
 Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learning
 
 **Knowledge Powered Dialogue System** : It is important for dialogue system to use universal background knowledge and common senses.
+
 - Document Grounded Conversations. A long paper accepted by ACL 2019.
 - Audio Visual Scene-aware Dialog. Work in progress.
 
