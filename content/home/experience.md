@@ -30,14 +30,12 @@ Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learni
 
 **Knowledge Powered Dialogue System** :
 
-- Document Grounded Conversations. A long paper accepted by ACL 2019. A long paper submitted to EMNLP 2019 workshop.
-- Audio Visual Scene-aware Dialog. Work in progress.
+- Document Grounded Conversations. A long paper accepted by ACL 2019. A long paper accepted by EMNLP 2019 MRQA workshop.
+- Audio Visual Scene-aware Dialog. <font ccolor="#ff0000">Rank 1st in DSTC8-AVSD Challenge.</font> A paper accepted by AAAI2020 DSTC8 workshop.
 
-**Dialogue Coherence and Diversity** : A long paper submitted to AAAI 2020.
+**Dialogue Coherence and Diversity** : A long paper submitted to EMNLP 2020.
 
-**WeChat Reading Dataset**: Work in progress.
-
-**Relation Prediction in Knowledge Graphs**: A long paper submitted to AAAI 2020.
+**Dialogue State Tracking in Task-Oriented Dialogue**: A long paper accepted by ACL2020.
 
 """
 
@@ -51,7 +49,7 @@ Natural Language Processing, Dialogue system, Knowledge Engineering, Deep Learni
   date_end = "2019-06-30"
   description = """
 
-Founder of AI Group in Dian Group. AI Group contains 20+ undergraduate students who are interested in AI (natural language processing, computer vision, machine learning, deep learning, reinforcement learning). We cooperate with famous companies on commercial or research projects.
+Founder of AI Group in Dian Group. AI Group contains 20+ undergraduate students who are interested in AI (natural language processing, computer vision, machine learning, deep learning, reinforcement learning). We cooperate with famous companies on commercial or research projects. We have published papers in ACL, CVPR.
 
 - AIbot: An Intelligent Customer Service Robot (Beibei Group).
 - AI Mooc: Build an intelligent question answering system for Mooc. We apply for the National Natural Science Funds.
