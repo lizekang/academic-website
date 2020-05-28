@@ -6,6 +6,6 @@ authors: ["Yong Shan", "**Zekang Li**", "Jinchao Zhang", "Fandong Meng", "Yang F
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "ACL 2020"
+publication: "ACL 2020 (Long Paper)"
 ---
 
